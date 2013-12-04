@@ -1,4 +1,4 @@
 dl
 ==
 
-Groep 8 Extra downloads
+This repository hosts downloads for Groep 8 Extra.
