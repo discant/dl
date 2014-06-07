@@ -2,7 +2,7 @@
     "name" : "Dynmap dashboard widget",
     "slug" : "dynmap-dashboard-widget",
     "download_url" : "https://github.com/discant/dashboard/archive/dynmap.zip",
-    "version" : "0.1.3",
+    "version" : "0.1.4",
     "author" : "DiscantCraft",
     "sections" : {
         "description" : "A WordPress dashboard widget to show a dynmap"
